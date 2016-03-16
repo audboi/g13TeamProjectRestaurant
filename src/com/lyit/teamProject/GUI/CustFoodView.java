@@ -26,7 +26,7 @@ public class CustFoodView extends JFrame {
 	private JPanel contentPane;
 
 	/**
-	 * Launch the application.
+	 * Launch the application. RANDOM COMMENT
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
